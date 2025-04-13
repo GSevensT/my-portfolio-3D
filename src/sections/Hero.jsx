@@ -1,9 +1,5 @@
+import { words } from "../constants"
 
-
-const words = [
-    {text:'Ideas', imgPath: '/images/ideas.svg' },
-    {text:'Concepts', imgPath: '/images/concepts.svg' }
-]
 
 const Hero = () => {
   return (
@@ -34,8 +30,8 @@ const Hero = () => {
                             </span>
                         </span>
                     </h1>
-                    <h1>into real projects</h1>
-                    <h1>that deliver results</h1>
+                    <h1>into Real Projects</h1>
+                    <h1>that Deliver Results</h1>
                 </div>
             </div>
             </header>
