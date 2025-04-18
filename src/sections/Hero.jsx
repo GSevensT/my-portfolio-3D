@@ -70,8 +70,6 @@ const Hero = () => {
                     <HeroExperience/>
                 </div>
             </figure>
-
-            
         </div>
 
         <AnimatedCounter/>
